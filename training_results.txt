@@ -1,0 +1,14 @@
+Waste Classification Model Training Results
+--------------------------------------------------
+Training Duration: 2303.98 seconds
+Best Validation Loss: 0.1884
+
+Final Classification Report:
+              precision    recall  f1-score   support
+
+           O     0.9106    0.9600    0.9347      1401
+           R     0.9459    0.8813    0.9125      1112
+
+    accuracy                         0.9252      2513
+   macro avg     0.9283    0.9207    0.9236      2513
+weighted avg     0.9263    0.9252    0.9249      2513
